@@ -1,0 +1,13 @@
+.blog-post {
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+}
+
+.blog-post h2 {
+    margin-top: 0;
+}
+
+.blog-post p {
+    margin-bottom: 10px;
+}
